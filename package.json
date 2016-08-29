@@ -1,0 +1,11 @@
+{
+  "name": "web-push-notifications-example",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^1.6.0",
+    "web-push": "^2.2.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
